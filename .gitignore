@@ -1,0 +1,9 @@
+# Unity3D Project
+Library/
+Temp/
+*.userprefs
+*.unityproj
+*.sln
+*.csproj
+
+*.DS_Store
