@@ -1,9 +1,32 @@
 # Unity3D Project
-Library/
+===============
+Unity generated
+===============
 Temp/
-*.userprefs
-*.unityproj
-*.sln
-*.csproj
+Library/
 
-*.DS_Store
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
